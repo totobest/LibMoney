@@ -2,3 +2,5 @@
 *.cmd         export-ignore
 *.xcf         export-ignore
 screenshots/  export-ignore
+*.blend       export-ignore
+*.blend1      export-ignore
