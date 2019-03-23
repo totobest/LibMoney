@@ -1,0 +1,14 @@
+{
+	"name": "LibMoney",
+	"version": "1.0.0",
+	"title": "toto's LibMoney",
+	"author": "totobest",
+	"description": "Adds money in the base game and allows mods to exchange it. Needed for AutomationTycoon, TechnologyMarket and BlackMarket2",
+	"homepage": "",
+	"contact": "",
+	"factorio_version":"0.17",
+	"dependencies": [
+		"base >= 0.17.17",
+		"stdlib >= 1.0.2"
+	]
+}
